@@ -1,11 +1,3 @@
-▄█    ▄   ▄█    ▄▄▄▄▀                ▄   ▄█ █▀▄▀█     
-██     █  ██ ▀▀▀ █                    █  ██ █ █ █     
-██ ██   █ ██     █               █     █ ██ █ ▄ █     
-▐█ █ █  █ ▐█    █                 █    █ ▐█ █   █     
- ▐ █  █ █  ▐   ▀          ██       █  █   ▐    █      
-   █   ██                           █▐        ▀       
-                                    ▐               
-
 Welcome to my NeoVim config!
 
 REQUIRED - https://github.com/junegunn/vim-plug
